@@ -1,5 +1,0 @@
-this is Madhu
-Writing a file
-for testing purpose
-I am copying the content of this file
-by using python script
